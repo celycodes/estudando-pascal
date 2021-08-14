@@ -1,4 +1,5 @@
 Program Pzim ;
+{Ex Maratona de Programação [2011]}
 var 
 	di, vf, vg : integer;
 	df, tf, tg : real;
