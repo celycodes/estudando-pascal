@@ -3,8 +3,8 @@ var
 	 name : string;
 Begin
 		writeln('--Welcome to Pascal --');
-    write('What´s your name ?');
+    write('WhatÂ´s your name ?');
     read(name);
-    writeln('Ow it´s a pleasure nice to meet you ', name,' welcome to the pascal world!');
+    writeln('Ow itÂ´s a pleasure nice to meet you ', name,' welcome to the pascalÂ´s world!');
     readkey;
 End.
