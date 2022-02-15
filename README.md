@@ -11,3 +11,10 @@
 - [Laços de repetição](https://www.youtube.com/playlist?list=PLPKFGZ2Q2Zxd1BuXJeYYKkXVrGK-EhAnt)
 - [Vetores](https://www.youtube.com/playlist?list=PLPKFGZ2Q2Zxfjsr4n5MxL1pRCXXS04v8w)
 - [Matrizes](https://www.youtube.com/playlist?list=PLPKFGZ2Q2ZxehD1ASGkzGFfxTtUzTsLzQ)
+
+- Caso queira um  realizar um projeto comigo (ou até mesmo bater papo), não hesite em me enviar uma mensagem, acesse o link das minhas redes sociais abaixo: ⤵️
+
+[Instagram](instagram.com/celycodes)
+[Twitter](twitter.com/ceIenny)
+[GitHub](https://github.com/celenny)
+[LinkedIn](https://www.linkedin.com/in/celenny)
